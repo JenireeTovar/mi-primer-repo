@@ -1,5 +1,5 @@
 # Mi-primer-repo.
-# 🚀 Mi Primer Repositorio
+# 🚀 MI PRIMER REPOSITORIO
 **Nombre:** [Jenireé Tovar]  
 **Bootcamp:** Data Analyst  
 **Fecha:** Febrero 2026.
