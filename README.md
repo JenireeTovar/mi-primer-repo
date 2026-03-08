@@ -2,7 +2,7 @@
 # 🚀 Mi Primer Repositorio
 **Nombre:** [Jenireé Tovar]  
 **Bootcamp:** Data Analyst  
-**Fecha:** Febrero 2026
+**Fecha:** Febrero 2026.
 ## 📋 Sobre este proyecto
 Este es mi primer repositorio en GitHub.  
 Estoy aprendiendo Git y GitHub desde cero.
