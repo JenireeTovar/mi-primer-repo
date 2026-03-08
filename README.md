@@ -7,4 +7,4 @@
 Este es mi primer repositorio en GitHub.  
 Estoy aprendiendo Git y GitHub desde cero.
 ## 🎯 Lo que he aprendido hoy
-repo de iniciación al git
+repo de iniciación al git.
