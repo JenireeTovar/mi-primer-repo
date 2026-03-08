@@ -1,4 +1,4 @@
-# mi-primer-repo
+# Mi-primer-repo.
 # 🚀 Mi Primer Repositorio
 **Nombre:** [Jenireé Tovar]  
 **Bootcamp:** Data Analyst  
